@@ -1,0 +1,5 @@
+names:
+- bus panel
+nc: 1
+train: /home/shubhamp/Downloads/Detection_of_Bus_Number_in_Bus_Panel/data/train
+val: /home/shubhamp/Downloads/Detection_of_Bus_Number_in_Bus_Panel/data/val
